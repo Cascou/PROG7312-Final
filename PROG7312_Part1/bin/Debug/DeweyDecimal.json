@@ -1,0 +1,955 @@
+{
+  "categories": [
+    {
+      "code": "000",
+      "title": "Computer Science, Information, & General Works",
+      "subcategories": [
+        {
+          "code": "010",
+          "title": "Bibliography",
+          "subcategories": [
+            {
+              "code": "011",
+              "title": "Bibliographies and catalogues"
+            },
+            {
+              "code": "012",
+              "title": "Bibliographies and catalogues of individuals"
+            },
+            {
+              "code": "014",
+              "title": "Bibliographies and catalogues of anonymous and pseudonymous works"
+            },
+            {
+              "code": "015",
+              "title": "Bibliographies and catalogues of works from specific places"
+            }
+          ]
+        },
+        {
+          "code": "020",
+          "title": "Library and information sciences",
+          "subcategories": [
+            {
+              "code": "021",
+              "title": "Relationships of libraries, archives, information centres"
+            },
+            {
+              "code": "022",
+              "title": "Administration of physical plant"
+            },
+            {
+              "code": "023",
+              "title": "Personnel management (Human resource management)"
+            },
+            {
+              "code": "025",
+              "title": "Operations of libraries, archives, information centres"
+            }
+          ]
+        },
+        {
+          "code": "030",
+          "title": "General encyclopaedic works",
+          "subcategories": [
+            {
+              "code": "031",
+              "title": "General encyclopaedic works in American English"
+            },
+            {
+              "code": "032",
+              "title": "General encyclopaedic works in English"
+            },
+            {
+              "code": "033",
+              "title": "General encyclopaedic works in other Germanic languages"
+            },
+            {
+              "code": "034",
+              "title": "General encyclopaedic works in French, Occitan, Catalan"
+            }
+          ]
+        },
+        {
+          "code": "050",
+          "title": "General serial publications",
+          "subcategories": [
+            {
+              "code": "051",
+              "title": "General serial publications in American English"
+            },
+            {
+              "code": "052",
+              "title": "General serial publications in English"
+            },
+            {
+              "code": "053",
+              "title": "General serial publications in other Germanic languages"
+            },
+            {
+              "code": "054",
+              "title": "General serial publications in French, Occitan, Catalan"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "100",
+      "title": "Philosophy & Psychology",
+      "subcategories": [
+        {
+          "code": "110",
+          "title": "Metaphysics",
+          "subcategories": [
+            {
+              "code": "111",
+              "title": "Ontology"
+            },
+            {
+              "code": "113",
+              "title": "Cosmology (Philosophy of nature)"
+            },
+            {
+              "code": "114",
+              "title": "Space"
+            },
+            {
+              "code": "115",
+              "title": "Time"
+            },
+            {
+              "code": "116",
+              "title": "Change"
+            },
+            {
+              "code": "117",
+              "title": "Structure"
+            }
+          ]
+        },
+        {
+          "code": "120",
+          "title": "Epistemology, causation, humankind",
+          "subcategories": [
+            {
+              "code": "121",
+              "title": "Epistemology (Theory of knowledge)"
+            },
+            {
+              "code": "122",
+              "title": "Causation"
+            },
+            {
+              "code": "123",
+              "title": "Determinism and indeterminism"
+            },
+            {
+              "code": "124",
+              "title": "Teleology"
+            }
+          ]
+        },
+        {
+          "code": "130",
+          "title": "Parapsychology and occultism",
+          "subcategories": [
+            {
+              "code": "133",
+              "title": "Specific Topics in parapsychology and occultism"
+            },
+            {
+              "code": "135",
+              "title": "Dreams and mysteries"
+            },
+            {
+              "code": "137",
+              "title": "Divinatory graphology"
+            },
+            {
+              "code": "138",
+              "title": "Physiognomy"
+            }
+          ]
+        },
+        {
+          "code": "140",
+          "title": "Specific philosophical schools and viewpoints",
+          "subcategories": [
+            {
+              "code": "141",
+              "title": "Idealism and related systems and doctrines"
+            },
+            {
+              "code": "142",
+              "title": "Critical philosophy"
+            },
+            {
+              "code": "143",
+              "title": "Bergsonism and intuitionism"
+            },
+            {
+              "code": "144",
+              "title": "Humanism and related systems and doctrines"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "200",
+      "title": "Religion",
+      "subcategories": [
+        {
+          "code": "210",
+          "title": "Philosophy and theory of religion",
+          "subcategories": [
+            {
+              "code": "211",
+              "title": "Concepts of God"
+            },
+            {
+              "code": "212",
+              "title": "Existence of God, ways of knowing God, attributes of God"
+            },
+            {
+              "code": "213",
+              "title": "Creation"
+            },
+            {
+              "code": "214",
+              "title": "Theodicy"
+            }
+          ]
+        },
+        {
+          "code": "220",
+          "title": "Bible",
+          "subcategories": [
+            {
+              "code": "221",
+              "title": "Old Testament (Tanakh)"
+            },
+            {
+              "code": "222",
+              "title": "Historical books of Old Testament"
+            },
+            {
+              "code": "223",
+              "title": "Poetic books of Old Testament"
+            },
+            {
+              "code": "224",
+              "title": "Prophetic books of Old Testament"
+            }
+          ]
+        },
+        {
+          "code": "230",
+          "title": "Christianity",
+          "subcategories": [
+            {
+              "code": "231",
+              "title": "God"
+            },
+            {
+              "code": "232",
+              "title": "Jesus Christ and his family"
+            },
+            {
+              "code": "233",
+              "title": "Humankind"
+            },
+            {
+              "code": "234",
+              "title": "Salvation and grace"
+            }
+          ]
+        },
+        {
+          "code": "240",
+          "title": "Christian moral and devotional theology",
+          "subcategories": [
+            {
+              "code": "241",
+              "title": "Christian ethics"
+            },
+            {
+              "code": "242",
+              "title": "Devotional literature"
+            },
+            {
+              "code": "243",
+              "title": "Evangelistic writings for individuals and families"
+            },
+            {
+              "code": "246",
+              "title": "Use of art in Christianity"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "300",
+      "title": "Social Sciences",
+      "subcategories": [
+        {
+          "code": "310",
+          "title": "Collections of general statistics",
+          "subcategories": [
+            {
+              "code": "314",
+              "title": "General statistics of Europe"
+            },
+            {
+              "code": "315",
+              "title": "General statistics of Asia"
+            },
+            {
+              "code": "316",
+              "title": "General statistics of Africa"
+            },
+            {
+              "code": "317",
+              "title": "General statistics of South America"
+            }
+          ]
+        },
+        {
+          "code": "320",
+          "title": "Political science (Politics and government)",
+          "subcategories": [
+            {
+              "code": "321",
+              "title": "Systems of governments and states"
+            },
+            {
+              "code": "322",
+              "title": "Relation of the state to organized groups and their members"
+            },
+            {
+              "code": "323",
+              "title": "Civil and political rights"
+            },
+            {
+              "code": "324",
+              "title": "The political process"
+            }
+          ]
+        },
+        {
+          "code": "330",
+          "title": "Economics",
+          "subcategories": [
+            {
+              "code": "331",
+              "title": "Labor economics"
+            },
+            {
+              "code": "332",
+              "title": "Financial economics"
+            },
+            {
+              "code": "333",
+              "title": "Economics of land and energy"
+            },
+            {
+              "code": "334",
+              "title": "Cooperatives"
+            }
+          ]
+        },
+        {
+          "code": "340",
+          "title": "Law",
+          "subcategories": [
+            {
+              "code": "341",
+              "title": "Law of nations"
+            },
+            {
+              "code": "342",
+              "title": "Constitutional and administrative law"
+            },
+            {
+              "code": "343",
+              "title": "Military, defence, public property, public finance, tax, commerce (trade), industrial law"
+            },
+            {
+              "code": "344",
+              "title": "Labor, social service, education, cultural law"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "400",
+      "title": "Language",
+      "subcategories": [
+        {
+          "code": "410",
+          "title": "Linguistics",
+          "subcategories": [
+            {
+              "code": "411",
+              "title": "Writing systems of standard forms of languages"
+            },
+            {
+              "code": "412",
+              "title": "Etymology of standard forms of languages"
+            },
+            {
+              "code": "413",
+              "title": "Dictionaries of standard forms of languages"
+            },
+            {
+              "code": "414",
+              "title": "Phonology and phonetics of standard forms of languages"
+            }
+          ]
+        },
+        {
+          "code": "420",
+          "title": "English and Old English (Anglo-Saxon)",
+          "subcategories": [
+            {
+              "code": "421",
+              "title": "Writing system, phonology, phonetics of standard English"
+            },
+            {
+              "code": "422",
+              "title": "Etymology of standard English"
+            },
+            {
+              "code": "423",
+              "title": "Dictionaries of standard English"
+            },
+            {
+              "code": "425",
+              "title": "Grammar of standard English"
+            }
+          ]
+        },
+        {
+          "code": "430",
+          "title": "German and related languages",
+          "subcategories": [
+            {
+              "code": "431",
+              "title": "Writing systems, phonology, phonetics of standard German"
+            },
+            {
+              "code": "432",
+              "title": "Etymology of standard German"
+            },
+            {
+              "code": "433",
+              "title": "Dictionaries of standard German"
+            },
+            {
+              "code": "435",
+              "title": "Grammar of standard German"
+            }
+          ]
+        },
+        {
+          "code": "440",
+          "title": "French and related Romance languages",
+          "subcategories": [
+            {
+              "code": "441",
+              "title": "Writing systems, phonology, phonetics of standard French"
+            },
+            {
+              "code": "442",
+              "title": "Etymology of standard French"
+            },
+            {
+              "code": "443",
+              "title": "Dictionaries of standard French"
+            },
+            {
+              "code": "445",
+              "title": "Grammar of standard French"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "500",
+      "title": "Science",
+      "subcategories": [
+        {
+          "code": "510",
+          "title": "Mathematics",
+          "subcategories": [
+            {
+              "code": "511",
+              "title": "General principles of mathematics"
+            },
+            {
+              "code": "512",
+              "title": "Algebra"
+            },
+            {
+              "code": "513",
+              "title": "Arithmetic"
+            },
+            {
+              "code": "514",
+              "title": "Topology"
+            }
+          ]
+        },
+        {
+          "code": "520",
+          "title": "Astronomy and allied sciences",
+          "subcategories": [
+            {
+              "code": "521",
+              "title": "Celestial mechanics"
+            },
+            {
+              "code": "522",
+              "title": "Techniques, procedures, apparatus, equipment, materials"
+            },
+            {
+              "code": "523",
+              "title": "Specific celestial bodies and phenomena"
+            },
+            {
+              "code": "525",
+              "title": "Earth (Astronomical geography)"
+            }
+          ]
+        },
+        {
+          "code": "530",
+          "title": "Physics",
+          "subcategories": [
+            {
+              "code": "531",
+              "title": "Classical mechanics"
+            },
+            {
+              "code": "532",
+              "title": "Fluid mechanics"
+            },
+            {
+              "code": "533",
+              "title": "Pneumatics (Gas mechanics)"
+            },
+            {
+              "code": "534",
+              "title": "Sound and related vibrations"
+            }
+          ]
+        },
+        {
+          "code": "540",
+          "title": "Chemistry and allied sciences",
+          "subcategories": [
+            {
+              "code": "541",
+              "title": "Physical chemistry"
+            },
+            {
+              "code": "542",
+              "title": "Techniques, procedures, apparatus, equipment, materials"
+            },
+            {
+              "code": "543",
+              "title": "Analytical chemistry"
+            },
+            {
+              "code": "546",
+              "title": "Inorganic chemistry"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "600",
+      "title": "Technology",
+      "subcategories": [
+        {
+          "code": "610",
+          "title": "Medicine and Health",
+          "subcategories": [
+            {
+              "code": "611",
+              "title": "Human anatomy, cytology, histology"
+            },
+            {
+              "code": "612",
+              "title": "Human physiology"
+            },
+            {
+              "code": "613",
+              "title": "Personal health and safety"
+            },
+            {
+              "code": "614",
+              "title": "Forensic medicine; incidence of injuries, wounds, diesease; public preventive medicine"
+            }
+          ]
+        },
+        {
+          "code": "620",
+          "title": "Engineering and allied operations",
+          "subcategories": [
+            {
+              "code": "621",
+              "title": "Applied physics"
+            },
+            {
+              "code": "622",
+              "title": "Mining and related operations"
+            },
+            {
+              "code": "623",
+              "title": "Military and nautical engineering"
+            },
+            {
+              "code": "624",
+              "title": "Civil engineering"
+            }
+          ]
+        },
+        {
+          "code": "630",
+          "title": "Agriculture and related technologies",
+          "subcategories": [
+            {
+              "code": "631",
+              "title": "Specific techniques; apparatus, equipment, materials"
+            },
+            {
+              "code": "632",
+              "title": "Plant injuries, diseases, pests"
+            },
+            {
+              "code": "633",
+              "title": "Field and plantation crops"
+            },
+            {
+              "code": "634",
+              "title": "Orchards, fruits, forestry"
+            }
+          ]
+        },
+        {
+          "code": "640",
+          "title": "Home and family management",
+          "subcategories": [
+            {
+              "code": "641",
+              "title": "Food and drink"
+            },
+            {
+              "code": "642",
+              "title": "Meals and table service"
+            },
+            {
+              "code": "643",
+              "title": "Housing and household equipment"
+            },
+            {
+              "code": "644",
+              "title": "Household utilities"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "700",
+      "title": "Arts & Recreation",
+      "subcategories": [
+        {
+          "code": "710",
+          "title": "Area planning and landscape architecture",
+          "subcategories": [
+            {
+              "code": "711",
+              "title": "Area planning (Civic art)"
+            },
+            {
+              "code": "712",
+              "title": "Landscape architecture (Landscape design)"
+            },
+            {
+              "code": "713",
+              "title": "Landscape architecture of trafficways"
+            },
+            {
+              "code": "714",
+              "title": "Water features in landscape architecture"
+            }
+          ]
+        },
+        {
+          "code": "720",
+          "title": "Architecture",
+          "subcategories": [
+            {
+              "code": "721",
+              "title": "Architectural materials and structural elements"
+            },
+            {
+              "code": "722",
+              "title": "Architecture from earliest times to ca. 300"
+            },
+            {
+              "code": "723",
+              "title": "Architecture from ca. 300 to 1399"
+            },
+            {
+              "code": "724",
+              "title": "Architecture from 1400"
+            }
+          ]
+        },
+        {
+          "code": "730",
+          "title": "Sculpture and related arts",
+          "subcategories": [
+            {
+              "code": "731",
+              "title": "Processes, forms, subjects of sculpture"
+            },
+            {
+              "code": "732",
+              "title": "Sculpture from earliest times to ca. 500, sculpture of nonliterate peoples"
+            },
+            {
+              "code": "733",
+              "title": "Greek, Etruscan, Roman sculpture"
+            },
+            {
+              "code": "734",
+              "title": "Sculpture from ca. 500 to 1399"
+            }
+          ]
+        },
+        {
+          "code": "740",
+          "title": "Graphic arts and decorative arts",
+          "subcategories": [
+            {
+              "code": "741",
+              "title": "Drawing and drawings"
+            },
+            {
+              "code": "742",
+              "title": "Perspective in drawing"
+            },
+            {
+              "code": "743",
+              "title": "Drawing and drawings by subject"
+            },
+            {
+              "code": "745",
+              "title": "Decorative arts"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "800",
+      "title": "Literature",
+      "subcategories": [
+        {
+          "code": "810",
+          "title": "American literature in English",
+          "subcategories": [
+            {
+              "code": "811",
+              "title": "American poetry in English"
+            },
+            {
+              "code": "812",
+              "title": "American drama in English"
+            },
+            {
+              "code": "813",
+              "title": "American fiction in English"
+            },
+            {
+              "code": "814",
+              "title": "American essays in English"
+            }
+          ]
+        },
+        {
+          "code": "820",
+          "title": "English and Old Englsih (Anglo-Saxon) literatures",
+          "subcategories": [
+            {
+              "code": "821",
+              "title": "English poetry"
+            },
+            {
+              "code": "822",
+              "title": "English drama"
+            },
+            {
+              "code": "823",
+              "title": "English fiction"
+            },
+            {
+              "code": "824",
+              "title": "English essays"
+            }
+          ]
+        },
+        {
+          "code": "830",
+          "title": "German literature and literatures of related languages",
+          "subcategories": [
+            {
+              "code": "831",
+              "title": "German poetry"
+            },
+            {
+              "code": "832",
+              "title": "German drama"
+            },
+            {
+              "code": "833",
+              "title": "German fiction"
+            },
+            {
+              "code": "834",
+              "title": "German essays"
+            }
+          ]
+        },
+        {
+          "code": "840",
+          "title": "French literature and literatures of related Romance languages",
+          "subcategories": [
+            {
+              "code": "841",
+              "title": "French poetry"
+            },
+            {
+              "code": "842",
+              "title": "French drama"
+            },
+            {
+              "code": "843",
+              "title": "French fiction"
+            },
+            {
+              "code": "844",
+              "title": "French essays"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "code": "900",
+      "title": "History & Geography",
+      "subcategories": [
+        {
+          "code": "910",
+          "title": "Geography and travel",
+          "subcategories": [
+            {
+              "code": "911",
+              "title": "Historical geography"
+            },
+            {
+              "code": "912",
+              "title": "Graphic representations of surface of earth and of extraterrestrial worlds"
+            },
+            {
+              "code": "913",
+              "title": "Geography of and travel in ancient world"
+            },
+            {
+              "code": "914",
+              "title": "Geography of and travel in Europe"
+            }
+          ]
+        },
+        {
+          "code": "920",
+          "title": "Biography, genealogy, insignia",
+          "subcategories": [
+            {
+              "code": "921",
+              "title": "Philosophers and psychologists"
+            },
+            {
+              "code": "922",
+              "title": "Religious leaders, thinkers, workers"
+            },
+            {
+              "code": "923",
+              "title": "People in social sciences"
+            },
+            {
+              "code": "924",
+              "title": "Philologists and lexicographers"
+            }
+          ]
+        },
+        {
+          "code": "930",
+          "title": "History of ancient world to ca. 499",
+          "subcategories": [
+            {
+              "code": "931",
+              "title": "China to 420"
+            },
+            {
+              "code": "932",
+              "title": "Egypt to 640"
+            },
+            {
+              "code": "933",
+              "title": "Palestine to 70"
+            },
+            {
+              "code": "934",
+              "title": "South Asia to 647"
+            }
+          ]
+        },
+        {
+          "code": "940",
+          "title": "History of Europe",
+          "subcategories": [
+            {
+              "code": "941",
+              "title": "British Isles"
+            },
+            {
+              "code": "942",
+              "title": "England and Wales"
+            },
+            {
+              "code": "943",
+              "title": "Germany and neighbouring central European countries"
+            },
+            {
+              "code": "944",
+              "title": "France and Monaco"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+      
+    
+  
